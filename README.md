@@ -1,5 +1,5 @@
 # SSOL-Token
-https://sweetsol.org/
+https://sweetsol.finance/
 
 BSC: 
 
